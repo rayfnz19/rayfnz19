@@ -5,6 +5,24 @@
 
 <br/>
 
+<div align="center">
+
+<!-- TOMBOL PORTFOLIO UTAMA -->
+[![Portfolio Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://URL_WEB_PORTOFOLIO_KAMU)
+
+<br/>
+<br/>
+
+### 🚀 FEATURED PROJECTS
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Maskapai LSP** | Web-based system for LSP management | `PHP` `MySQL` `XAMPP` | [View Repo](https://github.com/username-kamu/maskapai_lsp) |
+| **Midtrans Payment Integration** | Payment gateway implementation | `PHP` `Midtrans API` | [View Repo](https://github.com/username-kamu/NAMA_REPO) |
+| **Server Controller Setup** | Docker & DNS Configuration | `Docker` `DNS` `Linux` | [View Repo](https://github.com/username-kamu/NAMA_REPO) |
+
+</div>
+
 ### 🛠️ HARDWARE & EMBEDDED
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
