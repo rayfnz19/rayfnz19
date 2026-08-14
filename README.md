@@ -17,9 +17,11 @@
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Maskapai LSP** | Web-based system for LSP management | `PHP` `MySQL` `XAMPP` | [View Repo](https://github.com/username-kamu/maskapai_lsp) |
-| **Midtrans Payment Integration** | Payment gateway implementation | `PHP` `Midtrans API` | [View Repo](https://github.com/username-kamu/NAMA_REPO) |
-| **Server Controller Setup** | Docker & DNS Configuration | `Docker` `DNS` `Linux` | [View Repo](https://github.com/username-kamu/NAMA_REPO) |
+| **Maskapai LSP** | Web-based system for LSP management | `PHP` `MySQL` `XAMPP` | 
+| **Midtrans Payment Integration** | Payment gateway implementation | `PHP` `Midtrans API` | 
+| **APK BAYI TRANSLATOR** | Translator, Tracker, Grow | `Flutter` `Postgree` `UI Design` | 
+| **Skillmap** | pengembangan skill and learning intelligenc | `Flutter` `Postgree` `Ui Design` | 
+| **Server Controller Setup** | Docker & DNS Configuration | `Docker` `DNS` `Linux` | 
 
 </div>
 
